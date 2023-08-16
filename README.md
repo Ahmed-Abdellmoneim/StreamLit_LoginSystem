@@ -1,5 +1,3 @@
-# Welcome to GitHub Desktop!
+# streamlit login system 
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+this is an example of how you can use streamlit to make a login system with mysql phpmyadmin with multiple types of users
